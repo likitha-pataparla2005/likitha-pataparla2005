@@ -17,7 +17,7 @@
 
 ## 👩‍💻 About Me
 
-🎓 Final year **B.Tech Computer Science - Data Science** student  
+🎓 Final year **B.Tech Data Science** student  
 💡 Passionate about turning data into insights and building web apps  
 🌱 Currently exploring **Data Science & Full Stack Development**  
 🎯 Looking for exciting **internships & opportunities**  
