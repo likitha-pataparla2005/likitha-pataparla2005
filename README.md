@@ -24,7 +24,7 @@
 
 - 🔭 I love working on **data-driven projects**
 - 💬 Ask me about **Python, HTML, CSS, JavaScript, Power BI, SQL**
-- 🧠 Currently learning **Machine Learning & Data Visualization**
+- 🧠 Currently learning **Full Stack Development & Data Visualization**
 - 📫 Always open to **collaborating on interesting projects!**
 
 ---
