@@ -1,5 +1,3 @@
-<!-- Visitor Counter -->
-![Visitor Count](https://komarev.com/ghpvc/?username=likitha-pataparla2005&color=blueviolet&style=flat-square)
 
 <!-- Animated Header -->
 <h1 align="center">
