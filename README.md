@@ -65,21 +65,9 @@
 
 ---
 
-## 🏆 GitHub Trophies
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=likitha-pataparla2005&theme=darkhub&no-frame=true&row=1&column=6" />
-</p>
 
----
 
-## 🐍 Contribution Graph
-
-<p align="center">
-  <img src="https://github.com/likitha-pataparla2005/likitha-pataparla2005/blob/output/github-contribution-grid-snake.svg" />
-</p>
-
----
 
 ## 🤝 Let's Connect
 
